@@ -1,0 +1,153 @@
+/* 
+  Localizable.strings
+  Restaurant
+
+  Created by IMAC05 on 17/02/15.
+  Copyright (c) 2015 MYS. All rights reserved.
+*/
+
+
+
+"app_name" = "مطعم";
+"welcome_to" = "مرحبا، مرحبا بكم في";
+"greate_food" = "كبير في الغذاء، وأسعار مذهلة!";
+"login" = "تسجيل الدخول";
+"forgot_pass" = "هل نسيت كلمة المرور؟";
+"fb_connect" = "تواصل مع الفيسبوك";
+"sign_up" = "لم يكن لديك حساب؟ سجل";
+"email_add" = "عنوان البريد الإلكتروني";
+"mobile_number" = "رقم الهاتف المحمول";
+"password" = "كلمة المرور";
+"forgot_pass" = "هل نسيت كلمة المرور؟";
+
+"user_name" = "اسم المستخدم";
+"confirm_pass" = "تأكيد كلمة المرور";
+"country" = "بلد";
+"terms" = "أوافق على شروط الاستخدام";
+"create" = "خلق";
+"skip" = "تخطى";
+
+
+"change_lang" = "تغيير اللغة";
+"english" = "English";
+"arabic" = "العربية";
+
+
+//--------- Settings Menu ----------
+
+"my_profile" = "ملفي الشخصي";
+"add_restaurant" = "إضافة مطعم";
+"manage_restaurant" = "إدارة مطعم";
+"my_account" = "حسابي";
+"search_food" = "بحث الأغذية ومطعم";
+"my_favourite" = "بلدي المفضلة";
+"faq" = "التعليمات";
+"change_lang" = "تغيير اللغة";
+"contat_us" = "اتصل بنا";
+"menu_login" = "تسجيل الدخول";
+"about_us" = "معلومات عنا";
+"terms_condition" = "الشروط والأحكام";
+
+"change_language" = "تغيير اللغة";
+"search_placeholder" = "بحث المأكولات و مطعم";
+
+
+//---------- Home Screen --------
+
+"home" = "منزل";
+
+"featured" = "مميزة";
+"see_all" = "رؤية جميع";
+
+
+"search" = "بحث";
+"near_by" = "قريب";
+"category" = "فئة";
+
+"edit_profile" = "تعديل الملف الشخصي";
+"change_pass" = "تغيير كلمة المرور";
+"account_setting" = "إعداد حساب";
+"news_pref" = "تفضيلات Newslettter";
+"member_plan" = "عرض خطة العضوية";
+"account" = "حساب";
+
+
+"restaurant" = "مطعم";
+"add_restaurant" = "إضافة مطعم";
+
+"submit" = "عرض";
+"photos" = "صور";
+
+"manage_rest" = "إدارة مطعم";
+"my_fav" = "إدارة مطعم";
+
+"map" = "خريطة";
+
+"member_plan" = "خطة العضوية";
+
+"tab_me" = "أنا";
+"tab_category" = "فئة";
+"tab_search" = "بحث";
+"tab_nearby" = "قريب";
+
+"by_area" = "حسب المنطقة";
+"by_foodtype" = "حسب نوع الغذاء";
+"by_category" = "حسب الفئة";
+"by_keyword" = "بواسطة كلمة";
+
+
+"address" = "عنوان";
+"rest_name" = "مطعم اسم";
+"specification" = "مواصفة";
+"fb_link" = "الفيسبوك صلة";
+"twitter_link" = "تويتر صلة";
+"next" = "التالى";
+"social_media" = "وسائل الاعلام الاجتماعية";
+
+
+"add_rest_pic" = "إضافة مطعم الصورة";
+"cancel" = "إلغاء";
+"take_pic" = "التقاط صورة";
+"select_gallary_pic" = "اختر من معرض";
+"add_menu_pic" = "إضافة القائمة صورة";
+
+
+"menu_photos" = "القائمة صور";
+"rest_photos" = "مطعم صور";
+
+"select_city" = "اختر مدينة";
+"select_auto_city" = "السيارات الكشف عن جهاز مدينة";
+"select_manualy_city" = "يدويا اختر المدينة";
+
+
+"delete_restaurant" = "هل تريد بالتأكيد حذف ريساتورانت؟";
+"yes" = "نعم";
+"no" = "لا";
+"done" = "منته";
+
+"nearby_no_restaurant" = "لا يوجد مطعم وجدت في مكان قريب لك.";
+"no_call_facility" = "منشأة المكالمة غير متوفرة على جهازك.";
+"ok" = "حسنا";
+
+"edit_restaurant" = "تحرير مطعم";
+"went_wrong" = "ذهب شيء خاطئ";
+
+"delete_restaurant_photos" = "هل تريد بالتأكيد حذف الصور مطعم؟";
+
+
+"country_error" = "يرجى اختيار الدولة.";
+"enter_same_password" = "كلمة المرور وتأكيد كلمة السر يجب أن يكون نفسه.";
+"confirm_password_error" = "من فضلك ادخل تأكيد كلمة السر.";
+"password_error" = "الرجاء إدخال كلمة المرور.";
+"mobile_error" = "الرجاء إدخال رقم الهاتف النقال.";
+"enter_valid_email" = "الرجاء إدخال بريد إلكتروني صحيح.";
+"email_error" = "يرجى إدخال البريد الإلكتروني معرف.";
+"username_error" = "من فضلك ادخل اسم المستخدم.";
+
+
+"ac_create_success" = "Welcome '%@', your account has been create succesfully.";
+
+"send_mail" = "إرسال بريد";
+
+
+

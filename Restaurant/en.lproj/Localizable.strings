@@ -1,0 +1,163 @@
+/* 
+  Localizable.strings
+  Restaurant
+
+  Created by IMAC05 on 17/02/15.
+  Copyright (c) 2015 MYS. All rights reserved.
+*/
+
+
+"app_name" = "Restaurant";
+
+"welcome_to" = "Hi, Welcome to";
+
+"greate_food" = "Great Food, Amazing Prices!";
+
+"login" = "LOGIN";
+
+"forgot_pass" = "Forgot Password?";
+
+"fb_connect" = "Connect with Facebook";
+"sign_up" = "Don't have account? Sign Up";
+
+"email_add" = "Email Address";
+"mobile_number" = "Mobile Number";
+"password" = "Password";
+
+"forgot_pass" = "Forgot Password?";
+
+"user_name" = "User name";
+"confirm_pass" = "Confirm password";
+"country" = "Country";
+"terms" = "I Accept The Terms Of Use";
+"create" = "CREATE";
+"skip" = "Skip";
+
+
+"change_lang" = "Change Language";
+"english" = "English";
+"arabic" = "العربية";
+
+
+
+//--------- Settings Menu ----------
+
+"my_profile" = "My Profile";
+"add_restaurant" = "Add Restaurant";
+"manage_restaurant" = "Manage Restaurant";
+"my_account" = "My Account";
+"search_food" = "Search Food and Restaurant";
+"my_favourite" = "My Favourite";
+"faq" = "Faq";
+"change_lang" = "Change Language";
+"contat_us" = "Contact Us";
+"menu_login" = "Login";
+"about_us" = "About Us";
+"terms_condition" = "Terms & Conditions";
+
+"change_language" = "Change Language";
+"search_placeholder" = "Search Food & Restaurant";
+
+
+//---------- Home Screen --------
+
+"home" = "Home";
+
+"featured" = "Featured";
+"see_all" = "See All";
+
+
+"search" = "Search";
+"near_by" = "Nearby";
+"category" = "Category";
+
+
+"edit_profile" = "Edit Profile";
+"change_pass" = "Change Password";
+"account_setting" = "Account Setting";
+"news_pref" = "Newslettter Preferences";
+"member_plan" = "View Membership Plan";
+"account" = "Account";
+
+"restaurant" = "Restaurant";
+"add_restaurant" = "Add Restaurant";
+
+"submit" = "Submit";
+"photos" = "Photos";
+
+
+"manage_rest" = "Manage Restaurant";
+"my_fav" = "My Favourites";
+
+
+"map" = "Map";
+
+"member_plan" = "Membership Plan";
+
+"tab_me" = "Me";
+"tab_category" = "Category";
+"tab_search" = "Search";
+"tab_nearby" = "Nearby";
+
+
+"by_area" = "By Area";
+"by_foodtype" = "By Food Type";
+"by_category" = "By Category";
+"by_keyword" = "By Keyword";
+
+
+"address" = "Address";
+"rest_name" = "Restaurant Name";
+"specification" = "Specification";
+"fb_link" = "Facebook Link";
+"twitter_link" = "Twitter Link";
+"next" = "Next";
+"social_media" = "Social Media";
+
+
+"add_rest_pic" = "Add Restaurant Picture";
+"cancel" = "CANCEL";
+"take_pic" = "TAKE A PICTURE";
+"select_gallary_pic" = "SELECT FROM GALLERY";
+"add_menu_pic" = "Add Menu Picture";
+
+
+"menu_photos" = "Menu Photos";
+"rest_photos" = "Restaurant Photos";
+
+
+"select_city" = "Select City";
+"select_auto_city" = "AUTO DETECT MY CITY";
+"select_manualy_city" = "Manually Select City";
+
+
+"delete_restaurant" = "Are you sure want to delete resaturant?";
+"yes" = "YES";
+"no" = "NO";
+"done" = "Done";
+
+"nearby_no_restaurant" = "No restaurant found nearby you.";
+"no_call_facility" = "Call facility is not available on your device.";
+"ok" = "OK";
+
+"edit_restaurant" = "Edit Restaurant";
+"went_wrong" = "Something went wrong.";
+
+"delete_restaurant_photos" = "Are you sure want to delete restaurant photos?";
+
+
+"country_error" = "Please select country";
+"enter_same_password" = "Password & confirm password must have same.";
+"confirm_password_error" = "Please enter confirm password.";
+"password_error" = "Please enter password.";
+"mobile_error" = "Please enter mobile number.";
+"enter_valid_email" = "Please enter valid email.";
+"email_error" = "Please enter email id.";
+"username_error" = "Please enter username.";
+
+
+"ac_create_success" = "Welcome '%@', your account has been create succesfully.";
+
+"send_mail" = "Send Mail";
+
+
